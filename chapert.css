@@ -1,0 +1,239 @@
+body{
+    background: #fff;
+    line-height: 1;
+}
+.headerr {
+    
+   
+    
+    background: #fff;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-pack: justify;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    padding: 1rem 9%;
+    padding-top: 10px;
+    line-height: 23px;
+  }
+
+  .headerr .navbar a {
+    font-size: 13px;
+    margin: 0 1rem;
+    color: #000;
+    text-decoration: none;
+    transition: 0.5s;
+  }
+
+  .icons{
+    display: flex;
+    cursor: pointer;
+    
+  }
+
+  .icons i{
+    width: 20px;
+    height: 20px;
+    margin: 5px;
+    color: #ccc8bb;
+  }
+
+  .icons .facebok i{
+    width: 30px;
+    height: 30px;
+    margin: 5px;
+    color: #ccc8bb;
+    transition: 0.5s;
+  }
+ .facebok i:hover{
+    color: rgb(20, 20, 243);
+  }
+
+ 
+
+  .icons span{
+    font-size: 15px;
+    color: #000;
+    margin: 5px;
+  }
+
+  .icons span:hover{
+    color: red;
+  }
+
+
+.headerrr{
+  display: flex;
+}
+
+  .color1 {
+    width: 280px;
+    height: 4px;
+    background: rgb(10, 4, 86);
+  }
+
+
+  .color2 {
+    width: 250px;
+    height: 4px;
+    background: rgb(235, 41, 16);
+  }
+
+  .color3 {
+    width: 240px;
+    height: 4px;
+    background: #ffc000;
+  }
+
+  .color4 {
+    width: 200px;
+    height: 4px;
+    background: rgb(10, 146, 205);
+  }
+ 
+  .color5 {
+    width: 250px;
+    height: 4px;
+    background: #789000aa;
+  }
+
+  .color6 {
+    width: 210px;
+    height: 4px;
+    background: rgb(158, 152, 152);
+  }
+
+  .color7 {
+    width: 150px;
+    height: 4px;
+    background: rgb(236, 45, 77);
+  }
+
+
+.header {
+    
+   
+  
+    background: #f7f5ef;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-pack: justify;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    padding: 2rem 9%;
+    padding-top: 10px;
+    line-height: 23px;
+  }
+  
+  .header .logo span {
+    font-size: 18px;
+    display: inline-block;
+    color: #000;
+    line-height: 17px;
+    padding: 6px 0 0 13px;
+    
+    width: 180px;
+    text-decoration: none;
+  }
+  
+  .header .logo img {
+    padding-right: .5rem;
+    width: 40px;
+    height: 40px;
+    
+  }
+  
+  .header .navbar a {
+    font-size: 18px;
+    margin: 0 1rem;
+    color: #000;
+    text-decoration: none;
+    transition: 0.5s;
+  }
+
+  .headerr .navbar a:hover {
+    color: red;
+    
+  }
+  
+  .header .navbar a:hover {
+    color: red;
+    
+  }
+
+
+
+.title-color{
+    margin-top: -17px;
+    background: #ccc8bb;
+}
+
+.page-title{
+    display: block;
+    color: white;
+    font-size: 100%;
+    background: transparent;
+
+}
+
+.wrapper{
+    width: 1360px;
+    margin: 0 auto;
+}
+.wrapper h1{
+    font-weight: normal;
+    font-size: 27px;
+    padding-top: 5px;
+    padding-left: 48px;
+    
+}
+.wrapper ul .li{
+    list-style: none;
+    color: #fff;
+    
+}
+
+.ul-li{
+    width: 1260px;
+    margin: 0 auto;
+}
+
+img{
+    width: 25px ;
+    height: 25px;
+}
+ul li{
+  padding: 8px 10px;
+  font-size: 13px;
+  border-bottom: 1px solid #ededed;
+  color: rgb(84, 81, 81);
+   
+}
+.ul li{
+  
+    width: 600px;
+    height: 30px;
+    transition: 0.5s;
+    cursor: pointer;
+    
+}
+ .ul li:hover{
+    background:#e9e6de ;
+    color: red;
+}
+
+li img{
+    margin: 5px;
+    margin-top: -5px;
+}
+
+.li-color{
+    color:rgb(0, 0, 0) ;
+    font-size: 18px;
+    
+}
+
